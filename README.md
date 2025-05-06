@@ -12,6 +12,10 @@ This repository contains all code, data preprocessing scripts, and example outpu
 
 - Tune hyperparameters (noise dimension, learning rate) for a VGAN and assess their impact.  
 - Evaluate how training dataset size (2.5 k, 5 k, 10 k images) affects VGAN performance.  
-- Compare VGAN, DCGAN, and VAE in terms of FID, IS, and visual fidelity.  
+- Compare VGAN, DCGAN, and VAE in terms of FID, IS, and visual fidelity.
 
-*This study serves as a practical guide for deploying GANs under limited computational resources.* :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+Dataset used: CelebA
+https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+*This study serves as a practical guide for deploying GANs under limited computational resources.*
+*Our results can be viewed on our paper*
